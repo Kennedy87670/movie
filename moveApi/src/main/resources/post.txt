@@ -1,0 +1,50 @@
+{
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "studio": "Warner Bros",
+    "movieCast": ["Leonardo DiCaprio", "Ellen Page"],
+    "releaseYear": 2010
+}
+
+{
+  "title": "Deadpool",
+  "director": "Tim Miller",
+  "studio": "20th Century Fox",
+  "movieCast": ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"],
+  "releaseYear": 2016
+}
+
+{
+  "title": "Avengers: Doomsday",
+  "director": "Anthony Russo & Joe Russo",
+  "studio": "Marvel Studios",
+  "movieCast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson", "Chris Hemsworth"],
+  "releaseYear": 2025
+}
+
+{
+  "title": "Oppenheimer",
+  "director": "Christopher Nolan",
+  "studio": "Universal Pictures",
+  "movieCast": ["Cillian Murphy", "Emily Blunt", "Robert Downey Jr.", "Matt Damon"],
+  "releaseYear": 2023
+}
+
+{
+  "title": "Pathaan",
+  "director": "Siddharth Anand",
+  "studio": "Yash Raj Films",
+  "movieCast": ["Shah Rukh Khan", "Deepika Padukone", "John Abraham"],
+  "releaseYear": 2023
+}
+
+{
+  "title": "Jawan",
+  "director": "Atlee",
+  "studio": "Red Chillies Entertainment",
+  "movieCast": ["Shah Rukh Khan", "Nayanthara", "Vijay Sethupathi", "Deepika Padukone"],
+  "releaseYear": 2023
+}
+
+
+

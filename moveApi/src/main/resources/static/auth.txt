@@ -1,0 +1,28 @@
+{
+    "name": "John Doe",
+    "email": "john@example.com",
+    "username": "johndoe",
+    "password": "password123"
+}
+
+{
+    "name": "Bad Admin",
+    "email": "bad@example.com",
+    "username": "badadmin",
+    "password": "password123",
+    "role": "ADMIN"
+}
+
+{
+    "name":"jk",
+    "email":"jk@gmail.com",
+    "username":"jkc",
+    "password":"12345"
+}
+{
+    "name": "Jane Admin",
+    "email": "jane@example.com",
+    "username": "janeadmin",
+    "password": "password123",
+    "role": "USER"
+}
